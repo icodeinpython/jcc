@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "jcc.h": "c"
+    },
+    "chat.tools.terminal.autoApprove": {
+        "./jcc": true
+    }
+}
